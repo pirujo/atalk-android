@@ -139,7 +139,7 @@
     <string name="service_gui_CALL_MISSED_CALL">Llamadas perdidas de:</string>
     <string name="service_gui_CALL_NO_ACTIVE_DEVICE">No se encontró ningún dispositivo de Audio/Video activo, por lo que no se pudo hacer la llamada..</string>
     <string name="service_gui_CALL_NO_AUDIO_DEVICE">Ningún dispositivo de audio configurado.</string>
-    <string name="service_gui_CALL_NO_AUDIO_CODEC">No hay ningún codec de audio activado.</string>
+    <string name="service_gui_CALL_NO_AUDIO_CODEC">No hay ningún códec de audio activado.</string>
     <string name="service_gui_CALL_NO_DEVICE_CODEC_H">El dispositivo o códec %1$s no está totalmente configurado en \'Ajustes…\'. Por favor, comprobar y configurar.</string>
     <string name="service_gui_CALL_NO_DEVICE_CODEC_Q">¿Continuar la llamada?</string>
     <string name="service_gui_CALL_NO_MATCHING_FORMAT_H">No hay formatos de medios que coincidan con la oferta %1$s para recibir llamadas. Por favor, compruebar la configuración del dispositivo y el códec en \'Ajustes…\'.</string>
@@ -251,7 +251,7 @@
     <string name="About_action">Acerca de</string>
     <string name="About_help">Ayuda</string>
     <string name="check_new_version">Comprobar actualizaciones</string>
-    <string name="show_history_log">Historial de registros</string>
+    <string name="show_history_log">Historial de cambios</string>
     <string name="Online_help">Ayuda online</string>
 
     <!-- HTTP Authorization Request Dialog -->
@@ -585,7 +585,7 @@
     <string name="service_gui_SELECT_NO_GROUP">Sin grupo</string>
 
     <!-- Logs -->
-    <string name="service_gui_SEND_LOGS">Informar de Bugs</string>
+    <string name="service_gui_SEND_LOGS">Informar de fallos</string>
     <string name="service_gui_SEND_LOGS_QUESTION">aTalk se acaba de recuperar después de un grave cierre. ¿Quieres informar de los errores a los desarrolladores?</string>
     <string name="service_gui_SEND_LOGS_SUBJECT">Reportar bugs a aTalk</string>
     <string name="service_gui_SEND_LOGS_TITLE">Informe de errores de aTalk por correo electrónico</string>
@@ -930,12 +930,12 @@
     <string name="plugin_otr_menu_CB_RESET">Reiniciar</string>
     <string name="plugin_otr_menu_CRYPTO_AUTHETICATED">CRYPTO Autenticado</string>
     <string name="plugin_otr_menu_CRYPTO_Finish">CRYPTO Acabado</string>
-    <string name="plugin_otr_menu_CRYPTO_NON_AUTHETICATED">CRYPTO No-Authenticado</string>
+    <string name="plugin_otr_menu_CRYPTO_NON_AUTHETICATED">CRYPTO No-Autenticado</string>
     <string name="plugin_otr_menu_END_OTR">Finalizar la conversación privada</string>
     <string name="plugin_otr_menu_OTR_AUTHETICATED">OTR autenticado</string>
     <string name="plugin_otr_menu_OTR_Finish">OTR Finalizado</string>
     <string name="plugin_otr_menu_OTR_HANDSHAKE">Reconocimiento OTR</string>
-    <string name="plugin_otr_menu_OTR_NON_AUTHETICATED">OTR No-Authenticado</string>
+    <string name="plugin_otr_menu_OTR_NON_AUTHETICATED">OTR No-Autenticado</string>
     <string name="plugin_otr_menu_OTR_PLAINTTEXT">Texto plano</string>
     <string name="plugin_otr_menu_OTR_TIMEOUT">Tiempo espera reconocimiento OTR</string>
     <string name="plugin_otr_menu_OTR_TOOLTIP">Cifrar las charlas con OTR</string>
@@ -1401,7 +1401,7 @@
     <string name="service_gui_settings_DENOISE_OFF">Desactivado</string>
     <string name="service_gui_settings_DENOISE_ON">Activado</string>
     <!-- Audio encodings -->
-    <string name="service_gui_settings_AUDIO_CODECS_TITLE">Codecs de Audio</string>
+    <string name="service_gui_settings_AUDIO_CODECS_TITLE">Códecs de Audio</string>
     <string name="service_gui_settings_AUDIO_CODECS_SUMMARY">Seleccionar y definir la prioridad de los códecs de audio</string>
 
     <!-- Video settings -->
@@ -1473,7 +1473,7 @@
     <string name="service_gui_settings_OMEMO_PURGE_DEVICE_TITLE">Eliminar dispositivos OMEMO</string>
 
     <!-- Key & FingerPrint security category -->
-    <string name="pref_cat_KEY_FINGERPRINT_SECURITY">Llave &amp; Seguridad de las huellas digitales</string>
+    <string name="pref_cat_KEY_FINGERPRINT_SECURITY">Clave &amp; Seguridad de las huellas digitales</string>
     <!-- Crypto private Keys screen -->
     <string name="service_gui_settings_CRYPTO_PRIV_KEYS_EMPTY">Cero usuario registrado encontrado</string>
     <string name="service_gui_settings_CRYPTO_PRIV_KEYS_SUMMARY">Gestionar huellas digitales criptográficas privadas</string>
@@ -1508,7 +1508,7 @@
     <string name="crypto_FINGERPRINT_NOT_VERIFIED">No</string>
     <string name="crypto_FINGERPRINT_STATUS">Verificado: %1$s</string>
     <string name="crypto_FINGERPRINT_VERIFIED">Sí</string>
-    <string name="crypto_NO_KEY_PRESENT">Sin llave presente</string>
+    <string name="crypto_NO_KEY_PRESENT">Sin clave presente</string>
 
     <string name="crypto_toast_FINGERPRINT_COPY">¡Huella digital copiada en el portapapeles!</string>
     <string name="crypto_toast_OMEMO_DISTRUST_MESSAGE_STOP">Dejar de enviar más mensajes OMEMO al amigo: %1$s</string>
